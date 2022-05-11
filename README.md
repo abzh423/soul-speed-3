@@ -1,3 +1,4 @@
+# soul-speed-3
 ### Status
 
 The project is in an **early stage**. Many, many features are unimplemented. We welcome help from anyone willing to contribute!
